@@ -1,0 +1,108 @@
+/* .logo-image{
+  width: 100px;
+  height: 46px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-top: -6px;
+} */
+/* .bottomnav{
+  background-color:lightblue;
+  padding-left: 600px;
+} */
+  /* margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  overflow: hidden;
+  height:40px;
+  padding: 8px;
+  background-color: #e5e5e5;
+} */
+/* a{
+  color: black;
+  padding-right: 20px;
+  font-weight: bold;
+} */
+footer {
+    padding: 3.125rem 0;
+    position: relative;
+    overflow: hidden;
+    background: black; }
+    footer ._kl_de_w {
+      margin: 1.25rem 0;
+      padding: 0.625rem 0;
+      color: #fff;
+      position: relative; }
+      footer ._kl_de_w .form-group a {
+        text-align: left;
+        padding: 0.625rem 0.9375rem;
+        border-radius: 0.25rem;
+        background: #fff;
+        color: #002db3;
+        font-size: 0.9375rem;
+        display: inline-block; }
+      footer ._kl_de_w ol .last {
+        border-bottom: 0.0625rem solid #92929292; }
+      footer ._kl_de_w ol li {
+        display: block;
+        margin: 0 1.5625rem 0 0;
+        padding: 0.625rem 0;
+        border-top: 0.0625rem solid #92929292;
+        color: #ddd;
+        font-size: 0.9375rem; }
+        @media screen and (max-width: 768px) {
+          footer ._kl_de_w ol li {
+            margin: 0rem; } }
+        footer ._kl_de_w ol li a {
+          color: white;
+          margin-right: 0.75rem; }
+      footer ._kl_de_w p {
+        font-size: 0.9375rem;
+        line-height: 1.625rem;
+        color: #ddd; }
+      footer ._kl_de_w h3 {
+        font-size: 1.25rem;
+        margin: 0 0 1.25rem 0; }
+  
+  .end-footer {
+    padding: 0.625rem 0;
+    background: grey;
+    position: relative;
+    overflow: hidden; }
+    .end-footer .last-card {
+      display: block;
+      width: 100%;
+      color: #ddd;
+      text-align: center; }
+      .end-footer .last-card p {
+        font-size: 1rem;
+        font-weight: normal;
+        display: inline-block;
+        padding: 0.625rem 0; }
+        .end-footer .last-card p a {
+          color: #002db3;
+          font-size: 1rem;
+          font-weight: 700;
+          margin: 0 0 0 0.625rem; }
+
+          .footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: red;
+            color: white;
+            text-align: center;
+         }
+         ._kl_de_w .fa{
+          color: whitesmoke;
+         }
+         .last-card {
+          display: block;
+          width: 100%;
+          color: #ddd;
+          text-align: center; }
+          .social{
+            padding-left: 400px;
+          }
+
+

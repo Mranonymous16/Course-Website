@@ -1,0 +1,19 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.text1{
+    font-size: 25px;
+    position: absolute;
+    top: 340px;
+    left: 550px;
+    color: orangered;
+}
+.text{
+    font-size: 25px;
+    position: absolute;
+    top: 370px;
+    left: 360px;
+    color: orangered;
+}
